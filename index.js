@@ -1,6 +1,5 @@
 const express = require("express");
 const multer = require("multer");
-const fetch = require("node-fetch");
 const ffmpeg = require("fluent-ffmpeg");
 const fs = require("fs-extra");
 const path = require("path");
